@@ -1,10 +1,10 @@
 fastapi
 uvicorn
 python-multipart
-xgboost
-scikit-learn
+pytesseract
+Pillow
+joblib
 pandas
 numpy
-joblib
-Pillow
-pytesseract
+scikit-learn
+xgboost
