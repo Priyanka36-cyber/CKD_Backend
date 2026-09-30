@@ -72,7 +72,6 @@ FEATURE_COLUMNS = [
 # ============================================================
 # PREDICTION FUNCTION
 # ============================================================
-
 def predict_kidney_disease(
     extracted_data: dict
 ):
