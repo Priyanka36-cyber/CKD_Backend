@@ -1,0 +1,11 @@
+1st time installation: 
+
+1. python -m venv venv - creates virtual environment. 
+2. venv/Scripts/Activate.ps1 - Activate virtual environment.
+3. pip install -r requirements.txt - install required libraries. 
+4. pip install xgboost fastapi uvicorn - install additional requirements (If needed).
+5. uvicorn main:app --reload - Run the backend
+
+General use:
+1. venv/Scripts/Activate.ps1 - Activate virtual environment.
+2. uvicorn main:app --reload - Run the backend.
